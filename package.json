@@ -1,0 +1,23 @@
+{
+  "name": "ikshara-co-nz",
+  "version": "1.0.0",
+  "description": "Ikshara™ (ikshara.co.nz) - Worldwide E-Commerce website for luxury Sarees and Three-Piece Suits with direct WhatsApp checkout to +91 81403 07529",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev": "npx serve . -p 3000"
+  },
+  "keywords": [
+    "ikshara",
+    "ikshara-co-nz",
+    "sarees",
+    "three-piece-suits",
+    "pakistani-suits",
+    "kanjivaram",
+    "banarasi",
+    "whatsapp-order",
+    "ecommerce"
+  ],
+  "author": "Ikshara™ (ikshara.co.nz)",
+  "license": "ISC"
+}
